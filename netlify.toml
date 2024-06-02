@@ -1,4 +1,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    access-control-allow-origin = "https://main--zeraki-saruni.netlify.app/"
+    access-control-allow-origin = "https://main--zeraki-saruni.netlify.app"
