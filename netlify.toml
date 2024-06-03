@@ -1,4 +1,6 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    access-control-allow-origin = "https://main--zeraki-saruni.netlify.app"
+    access-control-allow-origin = "*"
+    access-control-allow-methods = "POST, GET, OPTIONS, DELETE, PUT"
+    access-control-allow-headers = "x-requested-with, content-type"
